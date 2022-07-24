@@ -1,0 +1,36 @@
+/* navigation */
+#navbar{
+    
+}
+#navbar ul li a{
+    padding: 0px 10px;
+    font-size: 15px;
+}
+/* home */
+#home{
+   padding: 50px 50px;
+}
+#home p{
+   font-size: 1.5rem;
+}
+/* services */
+
+#services{
+  flex-direction: column;
+}
+
+#services .box{
+
+}
+/* client section */
+
+/* contact section */
+#contact-box input,#contact-box textarea{
+    width: 80%;
+}
+
+/* footer */
+/* utility classes */
+.h-primary{
+    font-size: 2.8rem;
+}
